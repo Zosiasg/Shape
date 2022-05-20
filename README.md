@@ -1,4 +1,4 @@
-# Area calculation
+# The concept of the interface
 > This is a very simple piece of java code illustrating basic object-oriented features.
 ## Table of Contents
 * [General Info](#general-information)
