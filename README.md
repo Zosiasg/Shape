@@ -13,7 +13,7 @@
 
 
 ## General Information
-This programme illustrates creation and basic use cases of objects.
+This programme illustrates the concept of interfaces and their usage in class implementation.
 
 ## Technologies Used
 IntelliJ IDEA 2022.1.1 (Community Edition)
@@ -22,11 +22,8 @@ Runtime version: 11.0.14.1+1-b2043.45 amd64
 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
 
 ## Features
-Class _Rower_ has three attributes: _obliczPowiechnie()_ , _obliczObwod_, _promien_  and four methods:
-- _start_
-- _stop_
-- _przyspiesz_
-- _wyswietlStan_
+The interface _Ksztalt_ declares two methods: _obliczPowiechnie()_ and _obliczObwod_.
+There are two classes implementing this interface: _Kwadrat_ and _Kolo_, having relevant local attributes - dlugoscBoku and promien, respectively.
 
 ## Setup
 The project does not require any particular setup.
